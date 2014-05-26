@@ -1,0 +1,11 @@
+D:\Підручники\Arkaball\Arkaball\Temp\bin\Debug\Assembly-CSharp.dll
+D:\Підручники\Arkaball\Arkaball\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\Підручники\Arkaball\Arkaball\Temp\bin\Debug\UnityEditor.dll
+D:\Підручники\Arkaball\Arkaball\Temp\bin\Debug\UnityEngine.dll
+D:\Підручники\Arkaball\Arkaball\Temp\bin\Debug\Mono.Cecil.dll
+D:\Підручники\Arkaball\Arkaball\Temp\bin\Debug\nunit.framework.dll
+D:\Підручники\Arkaball\Arkaball\Temp\bin\Debug\Unity.DataContract.dll
+D:\Підручники\Arkaball\Arkaball\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+D:\Підручники\Arkaball\Arkaball\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+D:\Підручники\Arkaball\Arkaball\obj\Debug\Assembly-CSharp.dll
+D:\Підручники\Arkaball\Arkaball\obj\Debug\Assembly-CSharp.pdb
