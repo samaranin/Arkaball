@@ -10,6 +10,7 @@ public class Menu : MonoBehaviour {
 	void Start () { 
 		window = 1; 
 		Score.curScore = 0;
+		Lives.currentLives = 3;
 	} 
 	
 	void OnGUI () { 

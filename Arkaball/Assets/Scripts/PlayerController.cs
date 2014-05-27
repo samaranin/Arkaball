@@ -3,7 +3,7 @@ using System.Collections;
 
 public class PlayerController : MonoBehaviour {
 
-	public float speed; //Movement speed
+	public float speed = 15; //Movement speed
 
 	private Rigidbody2D thisRigidBody;
 
